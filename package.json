@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-core",
+  "name": "qh-mongodb-core",
   "version": "3.1.0-beta4",
   "description": "Core MongoDB driver functionality, no bells and whistles and meant for integration not end applications",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mongodb-js/mongodb-core.git"
+    "url": "git://github.com/noteon/mongodb-core.git"
   },
   "keywords": [
     "mongodb",
