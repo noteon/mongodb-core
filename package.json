@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mongodb-js/mongodb-core.git"
+    "url": "git://github.com/noteon/mongodb-core.git"
   },
   "keywords": [
     "mongodb",
