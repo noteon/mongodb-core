@@ -21,7 +21,7 @@
     "core"
   ],
   "dependencies": {
-    "bson": "^1.1.0",
+    "bson": "^3.0.2",
     "require_optional": "^1.0.1",
     "safe-buffer": "^5.1.2"
   },
