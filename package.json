@@ -21,7 +21,7 @@
     "core"
   ],
   "dependencies": {
-    "bson": "^3.0.2",
+    "bson": "github:qing-hai/js-bson#mb1.1.0",
     "require_optional": "^1.0.1",
     "safe-buffer": "^5.1.2"
   },
